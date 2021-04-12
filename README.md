@@ -2,7 +2,7 @@
 > 前端八股知识点-速记脑图
 > 目前仅提供 mindnode 格式，求好心人转 xmind
 
-![总预览](https://tva1.sinaimg.cn/large/008eGmZEly1gp9ucl3fnzj319m0u0dv2.jpg)
+![总预览](./preview.jpg)
 
 ## 阅读方式：
 
