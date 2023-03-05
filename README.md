@@ -1,10 +1,10 @@
-# bagu
-> 前端八股知识点-速记脑图
-> 目前仅提供 mindnode 格式，求好心人转 xmind
+# stereotype
+> 前端八股知识点-速记脑图，fork自 https://github.com/quanru/bagu
+
+> 原仓库目前仅提供 mindnode 格式，我转成 xmind 方便windows用户浏览。
 
 ![总预览](./preview.jpg)
 
 ## 阅读方式：
 
-1. 在线点开每个子目录可以预览脑图
-2. 下载本仓库，使用[软件](https://apps.apple.com/cn/app/mindnode-mind-map/id1218718027)可打开 mindnode 文件
+打开resource文件夹用 xmind 以Freemind(mm)格式导入即可。
