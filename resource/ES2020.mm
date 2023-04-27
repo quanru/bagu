@@ -1,0 +1,15 @@
+<map version="1.0.0"><node ID="E7C7DF05-F14C-40DF-B186-4F6F5D4644ED" BACKGROUND_COLOR="#FFFFFF" TEXT="ES2020" COLOR="#415229" POSITION="right" STYLE="bubble"><edge COLOR="#ADD424" WIDTH="4" /><font NAME="PingFangSC-Medium" SIZE="18" /><node ID="93BFC858-7690-4B20-B360-01CBAAA52252" TEXT="Optional Chaining" COLOR="#36342E" POSITION="right" STYLE="fork"><edge COLOR="#48B04B" WIDTH="6" /><font NAME="HelveticaNeue-Light" SIZE="21" /><node ID="A6D738E9-132C-4FA5-8A68-5C6EFCAEEF9A" TEXT="&#21487;&#36873;&#38142;&#36816;&#31639;&#31526;" COLOR="#36342E" POSITION="right" STYLE="fork"><edge COLOR="#48B04B" WIDTH="5" /><font NAME="PingFangSC-Light" SIZE="21" /></node>
+</node>
+<node ID="68A71B01-5AAA-4649-A94C-AD98B61CF4D2" TEXT="Nullish coalescing Operator" COLOR="#36342E" POSITION="right" STYLE="fork"><edge COLOR="#35BAB1" WIDTH="6" /><font NAME="HelveticaNeue-Light" SIZE="21" /><node ID="CAD4E53E-9A9A-4BE4-A51A-CBCEA663149E" TEXT="&#31354;&#20540;&#21512;&#24182;&#36816;&#31639;&#31526;" COLOR="#36342E" POSITION="right" STYLE="fork"><edge COLOR="#35BAB1" WIDTH="5" /><font NAME="PingFangSC-Light" SIZE="21" /></node>
+</node>
+<node ID="9FEA3840-6795-4A50-9D84-0DE1B3F22599" TEXT="globalThis" COLOR="#36342E" POSITION="right" STYLE="fork"><edge COLOR="#259BBA" WIDTH="6" /><font NAME="HelveticaNeue-Light" SIZE="21" /></node>
+<node ID="6021932D-1ABA-4FAE-A8A9-D9B6FFDB855A" TEXT="Promise.allSettled" COLOR="#36342E" POSITION="right" STYLE="fork"><edge COLOR="#EE685E" WIDTH="6" /><font NAME="HelveticaNeue-Light" SIZE="21" /></node>
+<node ID="82C98387-7864-40AB-B2FD-F6B3F4810904" TEXT="String.prototype.matchAll" COLOR="#36342E" POSITION="right" STYLE="fork"><edge COLOR="#EEA600" WIDTH="6" /><font NAME="HelveticaNeue-Light" SIZE="21" /></node>
+<node ID="5236DAB0-5476-4B7A-B48F-FA56A16E4198" TEXT="BigInt" COLOR="#36342E" POSITION="right" STYLE="fork"><edge COLOR="#FFE52A" WIDTH="6" /><font NAME="HelveticaNeue-Light" SIZE="21" /><node ID="AEED6C8E-D03C-4C81-909B-C6081954D2D3" TEXT="bigint &#36319; number&#19981;&#20005;&#26684;&#30456;&#31561;" COLOR="#36342E" POSITION="right" STYLE="fork"><edge COLOR="#FFE52A" WIDTH="5" /><font NAME="HelveticaNeue-Light" SIZE="21" /></node>
+<node ID="6B1B6C0F-1366-4EC9-9535-9C9505E285AC" TEXT="bigint &#19981;&#33021;&#36319; number&#19968;&#36215;&#36816;&#31639;" COLOR="#36342E" POSITION="right" STYLE="fork"><edge COLOR="#FFE52A" WIDTH="5" /><font NAME="HelveticaNeue-Light" SIZE="21" /></node>
+<node ID="224B2A32-666D-4DEC-A4D5-D38282C282F5" TEXT="&#19981;&#33021;&#20351;&#29992;+&#25226;bigint&#36716;&#25442;&#25104;number" COLOR="#36342E" POSITION="right" STYLE="fork"><edge COLOR="#FFE52A" WIDTH="5" /><font NAME="PingFangSC-Light" SIZE="21" /></node>
+</node>
+<node ID="3C1C9136-51B4-4834-9326-C34B54DD3613" TEXT="for-in mechanics" COLOR="#36342E" POSITION="right" STYLE="fork"><edge COLOR="#2E9632" WIDTH="6" /><font NAME="HelveticaNeue-Light" SIZE="21" /></node>
+<node ID="EDBA4658-BD6B-423E-8BDE-D7A2A5C31DC9" TEXT="import()" COLOR="#36342E" POSITION="right" STYLE="fork"><edge COLOR="#1CA197" WIDTH="6" /><font NAME="HelveticaNeue-Light" SIZE="21" /></node>
+</node>
+</map>
